@@ -118,7 +118,7 @@ nav ul li a:hover {
     margin: 0 auto;
     padding: 20px;
     background-color: #eff4fd;
-    padding-top:150px;
+    padding-top:200px;
   }
   
   .about-me {
@@ -129,18 +129,20 @@ nav ul li a:hover {
   
   
   .text {
-    flex: 0 0 70%; /* 70% width */
+    flex: 0 0 70%; 
     padding-top: 15px;
     padding-left: 130px;
   }
   
   .abtp {
     padding-top:10px;
+    padding-bottom:30px;
   }
   
   .abth1 {
     font-size: 54px;
     color: orange;
+    padding-bottom:20px;
   }
   
   p {
@@ -153,7 +155,7 @@ nav ul li a:hover {
 .container1 {
     margin: 0 auto;
     padding: 20px;
-    padding-top:150px;
+    padding-top:250px;
     background-color: #eff4fd;
   }
   
